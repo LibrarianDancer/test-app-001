@@ -1,6 +1,40 @@
 import streamlit as st
 
 st.title("😆 재미있는 스트림릿 웹앱 만들기")
-st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
+st.markdown(
+    """ 
+    # 김이언 (Kim Ian)
+
+## 소개
+열정적인 파이썬 개발자를 꿈꾸는 주니어 프로그래머입니다. 새로운 기술을 배우고 성장하는 것을 즐기며, 창의적인 문제 해결 능력을 키워나가고 있습니다.
+
+## 기술 스택
+- 주요 언어: Python
+- 관심 분야: 
+  - 웹 개발
+  - 데이터 분석
+  - 인공지능/머신러닝
+
+## 목표
+- Python 전문가가 되어 혁신적인 소프트웨어 개발
+- 오픈소스 프로젝트 기여를 통한 개발자 커뮤니티 참여
+- 지속적인 학습과 성장을 통한 실력 향상
+
+## 현재 학습 중
+- Python 심화 과정
+- 알고리즘과 자료구조
+- Git을 활용한 버전 관리
+- SQL과 데이터베이스 기초
+
+## 포트폴리오 프로젝트
+1. 개인 일정 관리 애플리케이션 개발 중
+2. 데이터 시각화 대시보드 구현 계획
+3. 간단한 웹 스크래핑 도구 제작
+
+## 연락처
+- Email: kim.ian@email.com
+- GitHub: github.com/kimian
+- Blog: kimian.dev
+"""
+
 )
